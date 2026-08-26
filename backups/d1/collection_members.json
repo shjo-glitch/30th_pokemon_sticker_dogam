@@ -1,0 +1,383 @@
+{
+  "format": "sites-d1-json-backup/v1",
+  "exported_at": "2026-08-26T06:07:38.576Z",
+  "source": {
+    "project_id": "appgprj_6a7ae3566fa48191b8c2b7ad936f1045",
+    "binding_name": "DB",
+    "table": "collection_members"
+  },
+  "columns": [
+    "pokemon_id",
+    "collector",
+    "updated_at"
+  ],
+  "row_count": 73,
+  "rows": [
+    {
+      "pokemon_id": 1,
+      "collector": "송",
+      "updated_at": 1786460084
+    },
+    {
+      "pokemon_id": 2,
+      "collector": "주",
+      "updated_at": 1786442314
+    },
+    {
+      "pokemon_id": 3,
+      "collector": "수",
+      "updated_at": 1786439601
+    },
+    {
+      "pokemon_id": 4,
+      "collector": "송",
+      "updated_at": 1786460089
+    },
+    {
+      "pokemon_id": 6,
+      "collector": "수",
+      "updated_at": 1786439598
+    },
+    {
+      "pokemon_id": 7,
+      "collector": "수",
+      "updated_at": 1786575910
+    },
+    {
+      "pokemon_id": 9,
+      "collector": "수",
+      "updated_at": 1786439596
+    },
+    {
+      "pokemon_id": 11,
+      "collector": "송",
+      "updated_at": 1786460094
+    },
+    {
+      "pokemon_id": 11,
+      "collector": "수",
+      "updated_at": 1787548839
+    },
+    {
+      "pokemon_id": 13,
+      "collector": "수",
+      "updated_at": 1786439593
+    },
+    {
+      "pokemon_id": 14,
+      "collector": "수",
+      "updated_at": 1786439591
+    },
+    {
+      "pokemon_id": 15,
+      "collector": "송",
+      "updated_at": 1786487637
+    },
+    {
+      "pokemon_id": 15,
+      "collector": "수",
+      "updated_at": 1786439589
+    },
+    {
+      "pokemon_id": 16,
+      "collector": "수",
+      "updated_at": 1787288310
+    },
+    {
+      "pokemon_id": 16,
+      "collector": "주",
+      "updated_at": 1786442484
+    },
+    {
+      "pokemon_id": 17,
+      "collector": "송",
+      "updated_at": 1786487591
+    },
+    {
+      "pokemon_id": 17,
+      "collector": "수",
+      "updated_at": 1786439585
+    },
+    {
+      "pokemon_id": 18,
+      "collector": "수",
+      "updated_at": 1786439582
+    },
+    {
+      "pokemon_id": 19,
+      "collector": "수",
+      "updated_at": 1786439608
+    },
+    {
+      "pokemon_id": 20,
+      "collector": "수",
+      "updated_at": 1786439611
+    },
+    {
+      "pokemon_id": 21,
+      "collector": "수",
+      "updated_at": 1786439578
+    },
+    {
+      "pokemon_id": 23,
+      "collector": "수",
+      "updated_at": 1786439574
+    },
+    {
+      "pokemon_id": 24,
+      "collector": "송",
+      "updated_at": 1786460110
+    },
+    {
+      "pokemon_id": 25,
+      "collector": "수",
+      "updated_at": 1786439615
+    },
+    {
+      "pokemon_id": 26,
+      "collector": "주",
+      "updated_at": 1786442423
+    },
+    {
+      "pokemon_id": 27,
+      "collector": "수",
+      "updated_at": 1787025682
+    },
+    {
+      "pokemon_id": 28,
+      "collector": "수",
+      "updated_at": 1786439570
+    },
+    {
+      "pokemon_id": 29,
+      "collector": "주",
+      "updated_at": 1786442448
+    },
+    {
+      "pokemon_id": 30,
+      "collector": "수",
+      "updated_at": 1786439572
+    },
+    {
+      "pokemon_id": 31,
+      "collector": "수",
+      "updated_at": 1786439567
+    },
+    {
+      "pokemon_id": 34,
+      "collector": "송",
+      "updated_at": 1786460116
+    },
+    {
+      "pokemon_id": 36,
+      "collector": "수",
+      "updated_at": 1786439561
+    },
+    {
+      "pokemon_id": 39,
+      "collector": "송",
+      "updated_at": 1786440198
+    },
+    {
+      "pokemon_id": 40,
+      "collector": "수",
+      "updated_at": 1786439559
+    },
+    {
+      "pokemon_id": 41,
+      "collector": "주",
+      "updated_at": 1786442471
+    },
+    {
+      "pokemon_id": 43,
+      "collector": "수",
+      "updated_at": 1787203770
+    },
+    {
+      "pokemon_id": 45,
+      "collector": "송",
+      "updated_at": 1786460125
+    },
+    {
+      "pokemon_id": 47,
+      "collector": "수",
+      "updated_at": 1786439554
+    },
+    {
+      "pokemon_id": 48,
+      "collector": "수",
+      "updated_at": 1786686510
+    },
+    {
+      "pokemon_id": 49,
+      "collector": "수",
+      "updated_at": 1786439551
+    },
+    {
+      "pokemon_id": 50,
+      "collector": "송",
+      "updated_at": 1786487577
+    },
+    {
+      "pokemon_id": 52,
+      "collector": "송",
+      "updated_at": 1786487618
+    },
+    {
+      "pokemon_id": 54,
+      "collector": "송",
+      "updated_at": 1786460133
+    },
+    {
+      "pokemon_id": 54,
+      "collector": "수",
+      "updated_at": 1787640070
+    },
+    {
+      "pokemon_id": 56,
+      "collector": "수",
+      "updated_at": 1786439547
+    },
+    {
+      "pokemon_id": 57,
+      "collector": "송",
+      "updated_at": 1786487643
+    },
+    {
+      "pokemon_id": 59,
+      "collector": "용",
+      "updated_at": 1786462622
+    },
+    {
+      "pokemon_id": 61,
+      "collector": "송",
+      "updated_at": 1786487648
+    },
+    {
+      "pokemon_id": 61,
+      "collector": "수",
+      "updated_at": 1787659771
+    },
+    {
+      "pokemon_id": 63,
+      "collector": "수",
+      "updated_at": 1786439535
+    },
+    {
+      "pokemon_id": 64,
+      "collector": "주",
+      "updated_at": 1786442365
+    },
+    {
+      "pokemon_id": 65,
+      "collector": "수",
+      "updated_at": 1786439539
+    },
+    {
+      "pokemon_id": 71,
+      "collector": "수",
+      "updated_at": 1787548854
+    },
+    {
+      "pokemon_id": 71,
+      "collector": "용",
+      "updated_at": 1786462664
+    },
+    {
+      "pokemon_id": 73,
+      "collector": "수",
+      "updated_at": 1786439532
+    },
+    {
+      "pokemon_id": 76,
+      "collector": "수",
+      "updated_at": 1786439370
+    },
+    {
+      "pokemon_id": 77,
+      "collector": "수",
+      "updated_at": 1786439372
+    },
+    {
+      "pokemon_id": 77,
+      "collector": "주",
+      "updated_at": 1786442374
+    },
+    {
+      "pokemon_id": 82,
+      "collector": "수",
+      "updated_at": 1786439525
+    },
+    {
+      "pokemon_id": 84,
+      "collector": "송",
+      "updated_at": 1786460165
+    },
+    {
+      "pokemon_id": 84,
+      "collector": "수",
+      "updated_at": 1786439523
+    },
+    {
+      "pokemon_id": 85,
+      "collector": "송",
+      "updated_at": 1786460171
+    },
+    {
+      "pokemon_id": 85,
+      "collector": "수",
+      "updated_at": 1786439528
+    },
+    {
+      "pokemon_id": 86,
+      "collector": "수",
+      "updated_at": 1787294337
+    },
+    {
+      "pokemon_id": 89,
+      "collector": "수",
+      "updated_at": 1786439503
+    },
+    {
+      "pokemon_id": 91,
+      "collector": "수",
+      "updated_at": 1787659776
+    },
+    {
+      "pokemon_id": 92,
+      "collector": "송",
+      "updated_at": 1786460179
+    },
+    {
+      "pokemon_id": 92,
+      "collector": "수",
+      "updated_at": 1786439518
+    },
+    {
+      "pokemon_id": 93,
+      "collector": "수",
+      "updated_at": 1786439509
+    },
+    {
+      "pokemon_id": 94,
+      "collector": "수",
+      "updated_at": 1786439512
+    },
+    {
+      "pokemon_id": 95,
+      "collector": "수",
+      "updated_at": 1786439511
+    },
+    {
+      "pokemon_id": 98,
+      "collector": "수",
+      "updated_at": 1787025687
+    },
+    {
+      "pokemon_id": 98,
+      "collector": "주",
+      "updated_at": 1786442390
+    }
+  ]
+}
+
